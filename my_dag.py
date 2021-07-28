@@ -22,7 +22,7 @@ def _choose_best_model(ti):
         variable = 'inaccurate'
     return variable
 
-
+# modelo
 def _training_model():
     return randint(1, 10)
 
